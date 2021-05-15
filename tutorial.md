@@ -1,5 +1,5 @@
-# Deploy a back-end and front-end app using Heroku and Netlify
-Posted May 15, 2021
+# Dev-Experience: Deploy a back-end and front-end app using Heroku and Netlify
+Posted May 15, 2021 \ by Dr. Vicki Bealman
 
 I'm was working on a project which needs to be deployed online. 
 - After research and testing, this tutorial emerged.
