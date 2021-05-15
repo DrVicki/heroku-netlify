@@ -1,6 +1,8 @@
 # Dev-Experience: Deploy a back-end and front-end app using Heroku and Netlify
 Posted May 15, 2021 \ by Dr. Vicki Bealman
 
+![](https://github.com/DrVicki/heroku-netlify/blob/master/BE-FE.jpg)
+
 I'm was working on a project which needs to be deployed online. 
 - After research and testing, this tutorial emerged.
 
@@ -141,9 +143,11 @@ axios.get('https://poc-express-api-heroku.herokuapp.com/api')
 
 If everything has been done properly, your webapp made by an API-based backend running on **Heroku**, with a Vue-based SPA running on **Netlify**, should work perfectly.
 
+![](https://github.com/DrVicki/heroku-netlify/blob/master/BE-FE.jpg)
+
 Here the code repositories:
 
-- Backend
-- Frontend
+- [Backend](https://github.com/DrVicki/backendfrontend)
+- [Frontend](https://github.com/DrVicki/frontend)
 
-Fantastic!!!!
+### Fantastic!!!! Happy Coding.....
