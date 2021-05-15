@@ -31,7 +31,8 @@ app.get('/api', (req, res) => {
   res.status(200).json({api: 'version 1'})
 })
 
-app.listen(3000, () => console.log('server started'))```
+app.listen(3000, () => console.log('server started'))
+```
 
 - In ```package.json``` add the command ```"start": "node index.js"``` in ```"script"``` portion.
 - Run your backend with npm ```start``` and test it with your browser ```http://localhost:3000/api```, you should see the response.
